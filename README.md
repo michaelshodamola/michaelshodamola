@@ -1,9 +1,8 @@
-- Hi, I’m Micheal Shodamola
-- I love building Web APIs and Mobile applications.
-- I really enjoy working with SQL.
-- I'm passionate about creating scalable and maintainable systems for high-performance applications.
-- I have a deep appreciation for the genius behind design patterns, and I’m grateful to the community of developers who have contributed these practical solutions.
-- I’m looking to collaborate on any Project.
+- Hi, I’m Michael Shodamola & I love building Web APIs and Mobile applications.
+---
+- C#, Java, Swift, Kotlin, SQL, React, JavaScript.
+---
+- I’m really drawn to the architecture behind cross-platform frameworks and how they bridge different environments. Gradually, I’ve been diving deeper into interoperability and native bindings to push the limits of what’s possible at the platform level.
+---
 - How to reach me [LinkedIn](https://www.linkedin.com/in/micheal-shodamola-4400b528b/)
-- Pronouns: He/Him
 - ⚡ Fun fact: I'm probably the best pingpong 🏓 player in Finland!😁
