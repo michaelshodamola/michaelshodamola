@@ -11,18 +11,16 @@ Building production web apps, APIs, and cross-platform mobile products end to en
 
 ## About
 
-I design, build, and ship real products independently — from UI and mobile apps to APIs, databases, and production ops.  
-Strongest in **TypeScript/React** and **C# / ASP.NET Core**, with daily work across **.NET MAUI**, **PostgreSQL**, and **Azure**.
-
-I'm especially interested in cross-platform architecture, native bindings, and how frameworks bridge web, mobile, and backend systems.
+I design, build, and ship real products independently - from UI and mobile apps to APIs, databases, and production ops.  
+Strongest in **TypeScript/React** and **C# / ASP.NET Core**, with backend work in **Go** and **Kotlin**, and daily work across **.NET MAUI**, **PostgreSQL**, and **Azure**.
 
 ---
 
 ## Skills
 
-**Languages:** TypeScript · JavaScript · C# · SQL · Python · Java  
+**Languages:** TypeScript · JavaScript · C# · Go · Kotlin · SQL · Python · Java  
 **Frontend:** React · HTML · CSS · responsive UI · component architecture  
-**Backend:** ASP.NET Core · REST APIs · PostgreSQL · SignalR  
+**Backend:** Go · Kotlin · ASP.NET Core · REST APIs · PostgreSQL · SignalR  
 **Mobile:** .NET MAUI (Android & iOS) · Swift/Kotlin at platform level  
 **Tools:** Azure · Playwright · Stripe · Firebase · Git  
 
@@ -33,17 +31,17 @@ I'm especially interested in cross-platform architecture, native bindings, and h
 ### [Ovitori](https://ovitori.fi) · Delivery marketplace
 Multi-sided delivery marketplace connecting customers, merchants, and couriers.  
 **Stack:** React/TypeScript web · iOS and Android · ASP.NET Core API · PostgreSQL · Stripe · SignalR  
-**Role:** Founder & full-stack engineer — UI, mobile app, API, payments, live order updates, store publishing.
+**Role:** Founder & full-stack engineer - UI, mobile app, API, payments, live order updates, store publishing.
 
 ### [ShiftPilot](https://shiftpilot.fi) · Workforce scheduling
 Production scheduling platform for teams.  
-**Stack:** React/TypeScript web · iOS and Android ·  C# / ASP.NET Core · PostgreSQL · Azure  
-**Role:** Founder — own frontend, backend, and product delivery.
+**Stack:** React/TypeScript web · iOS and Android · C# / ASP.NET Core · PostgreSQL · Azure  
+**Role:** Founder - own frontend, backend, and product delivery.
 
 ### [Deliverr](https://deliverr.fi) · Logistics & dispatch platform
-On-demand delivery network for merchants, customers, and couriers — restaurants, groceries, retail, and errands.  
+On-demand delivery network for merchants, customers, and couriers - restaurants, groceries, retail, and errands.  
 **Stack:** React/Vite web · iOS and Android · ASP.NET Core API · PostgreSQL · SignalR · Stripe  
-**Role:** Founder & full-stack engineer — merchant dashboards, courier dispatch, real-time tracking, proof-of-delivery, merchant API integrations, and mobile apps.
+**Role:** Founder & full-stack engineer - merchant dashboards, courier dispatch, real-time tracking, proof-of-delivery, merchant API integrations, and mobile apps.
 
 ### [FreeStuff](https://freestuff.fi) · Marketplace
 Community marketplace from concept to production.  
@@ -56,7 +54,7 @@ Independent software company behind Deliverr, Ovitori, ShiftPilot, and FreeStuff
 
 ## Experience
 
-**Founder & Software Engineer** · Elohvate Oy · 2024–Present  
+**Founder & Software Engineer** · Elohvate Oy · 2024 - Present  
 Own multiple production codebases: feature delivery, debugging, refactoring, and shipping.
 
 **RDI Software Development Intern** · Centria UAS · 2024  
@@ -69,8 +67,8 @@ Supported feature implementation in a small team.
 
 ## Education
 
-**BE, Information Technology** · Centria University of Applied Sciences · 2023–2026  
-**BSc, Computer Science** · Osun State University · 2016–2021  
+**BE, Information Technology** · Centria University of Applied Sciences · 2023 - 2026  
+**BSc, Computer Science** · Osun State University · 2016 - 2021  
 
 ---
 
