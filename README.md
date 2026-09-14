@@ -32,17 +32,15 @@ Strongest in **TypeScript/React** and **C# / ASP.NET Core**, **Go** and **Kotlin
 [Elohvate Oy](https://elohvate.fi) · Finland · elohvate.fi  
 Build and operate production software products for the Finnish ecosystem: APIs, PostgreSQL models, integrations, deployments, and ongoing support. Own features from design through production, with maintainable tested code and clear operational ownership.
 
+  
+[Ovitori](https://ovitori.fi) · ovitori.fi  
+**Problem:** customers and stores need a simpler marketplace for ordering and delivery coordination.  
+Marketplace backend: merchant catalog and order flows, courier coordination, payments, and live status updates. ASP.NET Core, PostgreSQL, web and mobile clients.
 
 
 [Deliverr](https://deliverr.fi) · deliverr.fi  
 **Problem:** local merchants need reliable on-demand dispatch without running their own courier fleet.  
 Backend for a logistics network connecting merchants, customers, and couriers: order intake, assignment, real-time tracking, payments, and proof of delivery. PostgreSQL, REST APIs, SignalR, Stripe.
-
-
-  
-[Ovitori](https://ovitori.fi) · ovitori.fi  
-**Problem:** customers and stores need a simpler marketplace for ordering and delivery coordination.  
-Marketplace backend: merchant catalog and order flows, courier coordination, payments, and live status updates. ASP.NET Core, PostgreSQL, web and mobile clients.
 
 
 
